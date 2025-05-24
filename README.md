@@ -1,3 +1,2 @@
-# Homie Writeups
+# Writeups
 
-Публичные райтапы от Хоуми.
